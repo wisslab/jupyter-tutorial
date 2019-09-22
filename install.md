@@ -23,3 +23,9 @@ We recommend to install Anaconda, which contains Jupyter Lab. To ensure that we 
 The installation of the LaTeX environment is only needed to export Jupyter Notebooks as PDF. We will demonstrate this during the tutorial, but it is not necessary for the tutorial, that you can do this on your machine.
 
 To be sure that you are ready for our tutorial, please create a new directory that will use as working directory for this tutorial. Open Anaconda Prompt, navigate to this directory, and run ```jupyter lab```. Now your browser should open automatically, with Jupyter Lab running in your tutorial directory. Congratulations, you are ready!
+
+If you have problems or questions before the tutorial, please don't hesitate to contact us.
+
+Magnus Pfeffer and Kai Eckert
+
+pfeffer|eckert at hdm-stuttgart.de
