@@ -16,7 +16,7 @@ In order to have as much time as possibe for the interesting parts of the tutori
 
 We recommend to install Anaconda, which contains Jupyter Lab. To ensure that we are all on the same version, please update Jupyter Lab to the most recent version, as follows:
 
-- Step 1: Install Anaconda distribution (https://www.anaconda.com/distribution/#download-section), Python 3.7 version for your OS
+- Step 1: Install Anaconda distribution ([https://www.anaconda.com/distribution/#download-section](https://www.anaconda.com/distribution/#download-section)), Python 3.7 version for your OS
 - Step 2: Open Anaconda Prompt from Start Menu and type ```conda update jupyterlab```
 - Step 3 (Optional): Install a LaTeX environment for your OS (Linux: TeX Live, macOS (OS X): MacTeX, Windows: MikTex)
 
@@ -29,3 +29,5 @@ If you have problems or questions before the tutorial, please don't hesitate to 
 Magnus Pfeffer and Kai Eckert
 
 pfeffer|eckert at hdm-stuttgart.de
+
+[Wisslab](http://wisslab.org)
