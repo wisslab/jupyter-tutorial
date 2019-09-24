@@ -1,3 +1,4 @@
+# Original text
 Jupyter Notebook is an open source web application for creating and sharing “live documents” that can contain code and the results from its execution besides traditional document elements like text or images. Originally being developed as part of the IPython project, it is now independent of Python and supports a long list of different programming languages, including JavaScript, Ruby, R and Perl.
 
 These live documents are uniquely suited to create teaching materials and interactive manuals that allow the reader to make changes to program code and see the results within the same environment: program outputs can be displayed, visualisation graphics or data tables can be updated on-the-fly. To support traditional use cases, static non-interactive versions can be exported in PDF, HTML or LaTeX format.
@@ -11,17 +12,17 @@ This workshop requires no prior knowledge of Jupyter Notebooks or the Python pro
 Agenda:
 
 Part I: Introduction
-Local installation of the necessary programming environment
-Using existing documents
-Creating documents with rich content
-Notebook extensions
+- Local installation of the necessary programming environment
+- Using existing documents
+- Creating documents with rich content
+- Notebook extensions
 Part II: Case studies
-Using Jupyter Notebook in teaching data integration basics
-Using Jupyter Notebook to develop, test and document a data management workflow with generation of RDF
+- Using Jupyter Notebook in teaching data integration basics
+- Using Jupyter Notebook to develop, test and document a data management workflow with generation of RDF
 Part III: Advanced topics
-Server installation and use
-Version control
-Using different language kernels
+- Server installation and use
+- Version control
+- Using different language kernels
 
 
 # Schedule DCMI
@@ -30,39 +31,54 @@ Using different language kernels
 
 Part I: Introduction
 
-Local installation of the necessary programming environment
-(Win, Linux, Mac) 
+Workshop motivation and structure
+1. Learn how to use and create notebooks, i.e. interactive documents with text, code, output
+2. Explore possibile uses in didactic settings
+3. Showcase a data workflow
+4. Showcase possible extensions
 
-- Link raussuchen und an Teilnehmer schicken
+Self-introduction of all participants
 
-Using existing documents: download and open simple notebooks
+Pre:
+- Verify local installation of the necessary programming environment (Win, Linux, Mac) 
+- Show how to start labs
+- Show link to wisslab github, download all files, open workshop 1 file
+- participants task 1: start, download, open locally
 
-- schöne Beispiele finden
+Interface Basics:
+- show all menu items
+- show cell navigation
+- show some shortcuts
 
-Creating documents with rich content
- - Markdown einführung
- - Tabellen, Grafiken, Formeln, Links
- - notebook challenge vom Bild zum Ergebnis
-   
-Lernziele: 
-- alles installiert und läuft
-- Notebooks öffnen und bearbeiten/nutzen können
-- Eigenes Notebook erstellen können (hello world mit Bildern, Text und Python print("Hallo"))
+Cells
+- explain markdown basics
+- participants task 2: try markdown
+- explain code basics
+- participants task 3: try code
 
+Intermediate
+- explain tables with HTML
+- use code to load and print csv tables (.haed, .tail)
+- participants task 3: try code
 
 10:30 - 11:00 Pause
 
 11:00 - 12:30 Block 2 (Magnus)
 
-Didaktik mit Jupiter Notebooks
+Part II: Notebooks in didactic settings
 
-- Ausgangsmaterial traditionell, Eigenschaften der unterschiedlichen Methoden
-- Programming Python with Notebooks - sinnvoll oder überforderung?
-  - Varianten: Code drin oder selber tippen
+Intro
+- show old teaching materials (Snap, Python 3)
+- show pycharm edu
+- discuss problems
+- participants: tell about own situation
 
-Lernziele:
-- Erste Python Grundlagen mit einem Notebook selbst erarbeitet
-- Überlegungen zu verschiedenen Materialien, Ansätzen und deren Umsetzung
+Demo
+- start with blank notebook
+- create short description of string functions
+- create short code examples of string functions
+- create short exercise task
+- create assert statements for exercise
  
 
 12:30 - 14:00 Pause
