@@ -58,7 +58,7 @@ Cells
 
 Intermediate
 - explain tables with HTML
-- use code to load and print csv tables (.haed, .tail)
+- use code to load and print csv tables
 - participants task 3: try code
 
 10:30 - 11:00 Pause
