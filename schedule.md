@@ -25,76 +25,6 @@ Part III: Advanced topics
 - Using different language kernels
 
 
-# Schedule DCMI
-
-09:00 - 10:30 Block 1 (Magnus)
-
-Part I: Introduction
-
-Workshop motivation and structure
-1. Learn how to use and create notebooks, i.e. interactive documents with text, code, output
-2. Explore possibile uses in didactic settings
-3. Showcase a data workflow
-4. Showcase possible extensions
-
-Self-introduction of all participants
-
-Pre:
-- Verify local installation of the necessary programming environment (Win, Linux, Mac) 
-- Show how to start labs
-- Show link to wisslab github, download all files, open workshop 1 file
-- participants task 1: start, download, open locally
-
-Interface Basics:
-- show all menu items
-- show cell navigation
-- show some shortcuts
-
-Cells
-- explain markdown basics
-- participants task 2: try markdown
-- explain code basics
-- participants task 3: try code
-
-Intermediate
-- explain tables with HTML
-- use code to load and print csv tables
-- participants task 3: try code
-
-10:30 - 11:00 Pause
-
-11:00 - 12:30 Block 2 (Magnus)
-
-Part II: Notebooks in didactic settings
-
-Intro
-- show old teaching materials (Snap, Python 3)
-- show pycharm edu
-- discuss problems
-- participants: tell about own situation
-
-Demo
-- start with blank notebook
-- create short description of string functions
-- create short code examples of string functions
-- create short exercise task
-- create assert statements for exercise
- 
-
-12:30 - 14:00 Pause
-
-14:00 - 15:30 Block 3 (Kai)
-
-Part II: Case studies (Using Jupyter Notebook in teaching data integration basics ++ Using Jupyter Notebook to develop, test and document a data management workflow with generation of RDF)
-
-
-15:30 - 16:00 Pause
-
-16:00 - 17:30 Block 4
-
-Part III: Advanced topics (Server installation and use ++ Version control ++ Using different language kernels)
-
-
 # Schedule SWIB
 
 13:00 - 14:30 Block 1 (Magnus)
@@ -111,6 +41,3 @@ Part III: Advanced topics (Server installation and use ++ Version control ++ Usi
 17:00 - 18:30 Block 3
 
 
-# Methode
-
-Alles in Notebooks dokumentieren und zeigen.

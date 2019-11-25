@@ -1,4 +1,4 @@
-# Administrativ stuff
+# Administrative stuff
 
 ## Create PDF from markdown files
 
